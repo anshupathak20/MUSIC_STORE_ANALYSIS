@@ -55,7 +55,7 @@ This project analyzes a Music Store database using PostgreSQL. The objective is 
 - Highest spending customer by country.
 
   
-# #How to Run
+## How to Run
 
 1. Import `MUSIC_STORE_ANALYSIS_PROJECT.sql` into PostgreSQL.
 2. Open `MUSIC_STORE_ANALYSIS_PROJECT_QUERIES.sql`.
